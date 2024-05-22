@@ -16,7 +16,7 @@ Delhi Delights is a food delivery company in Delhi. It offers a premium membersh
 
 
 ## Conclusions
-- We got good accuracy on train and test datasets by using Decision Tree Algorithm.
+- Got good accuracy on train and test datasets by using Decision Tree Algorithm.
 
 
 
@@ -28,7 +28,6 @@ Delhi Delights is a food delivery company in Delhi. It offers a premium membersh
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by Upgrad.
 - This project was based on Upgrad's Tutorial.
 
